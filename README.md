@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rick97h
 - 👀 I’m interested in ...games and Jesus
 - 🌱 I’m currently learning ...use git
-- 💞️ I’m looking to collaborate on ...all developers
+- 💞️ I’m looking to collaborate on ...in develoment
 - 📫 How to reach me ...in this email rodrigueshike@hotmail.com
 
 <!---
